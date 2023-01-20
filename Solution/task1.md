@@ -1,9 +1,14 @@
-Вот наш логотип (наведите указатель, чтобы увидеть текст заголовка):
+[## Завдання 1. Створення та запуск першої програми (сорочки)
 
-Внутри строки:  
-![alt-текст](https://github.com/ppc-ntu-khpi/java-0-angelxdem/blob/main/Solution/Task%201.1.png)
+**Task 1.1**
 
-В сноске:  
-![alt-текст][logo]
+Запуск початкового коду.
+ 
+![alt-текст](https://github.com/ppc-ntu-khpi/java-0-angelxdem/blob/main/Solution/Task%201.1.png "Task 1.1")
 
-[logo]: (https://github.com/ppc-ntu-khpi/java-0-angelxdem/blob/main/Solution/Task%201.2.png)
+**Task 1.2**
+
+Запуск коду з видозміненням згідно умови
+
+![alt-текст](https://github.com/ppc-ntu-khpi/java-0-angelxdem/blob/main/Solution/Task%201.2.jpg "Task 1.2")
+](https://github.com/ppc-ntu-khpi/java-0-angelxdem/blob/main/Solution/Task%201.2.jpg)
